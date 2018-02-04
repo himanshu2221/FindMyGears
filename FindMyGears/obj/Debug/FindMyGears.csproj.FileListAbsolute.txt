@@ -44,3 +44,49 @@ C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\obj\Debug\FindMyGears.csp
 C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\obj\Debug\FindMyGears.csproj.CoreCompileInputs.cache
 C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\obj\Debug\Bot Application.dll
 C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\obj\Debug\Bot Application.pdb
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\Bot Application.dll.config
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\Bot Application.dll
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\Bot Application.pdb
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\Autofac.dll
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\Chronic.dll
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\Microsoft.Bot.Builder.Autofac.dll
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\Microsoft.Bot.Builder.dll
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\Microsoft.Bot.Builder.Extensions.dll
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\Microsoft.Bot.Connector.dll
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\Microsoft.Rest.ClientRuntime.dll
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\Microsoft.WindowsAzure.Configuration.dll
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\Newtonsoft.Json.dll
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\System.Net.Http.Formatting.dll
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\System.Web.Http.dll
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\System.Web.Http.WebHost.dll
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\Autofac.xml
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\Microsoft.Bot.Builder.xml
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\Microsoft.Bot.Builder.Autofac.xml
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\Microsoft.Bot.Builder.Extensions.xml
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\Microsoft.Bot.Connector.xml
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\Microsoft.WindowsAzure.Configuration.xml
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\Newtonsoft.Json.xml
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\System.IdentityModel.Tokens.Jwt.xml
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\System.Net.Http.Formatting.xml
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\System.Web.Http.xml
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\System.Web.Http.WebHost.xml
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\ar\Microsoft.Bot.Builder.resources.dll
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\cs\Microsoft.Bot.Builder.resources.dll
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\en\Microsoft.Bot.Builder.resources.dll
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\es\Microsoft.Bot.Builder.resources.dll
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\fa\Microsoft.Bot.Builder.resources.dll
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\fr\Microsoft.Bot.Builder.resources.dll
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\it\Microsoft.Bot.Builder.resources.dll
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\ja\Microsoft.Bot.Builder.resources.dll
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\nl\Microsoft.Bot.Builder.resources.dll
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\ru\Microsoft.Bot.Builder.resources.dll
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\obj\Debug\FindMyGears.csprojResolveAssemblyReference.cache
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\obj\Debug\FindMyGears.csproj.CoreCompileInputs.cache
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\obj\Debug\Bot Application.dll
+F:\Coding\e-Zest Hackathon\FindMyGears\FindMyGears\obj\Debug\Bot Application.pdb
