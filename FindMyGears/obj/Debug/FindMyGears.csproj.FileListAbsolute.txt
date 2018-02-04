@@ -1,0 +1,46 @@
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\Bot Application.dll.config
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\Bot Application.dll
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\Bot Application.pdb
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\Autofac.dll
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\Chronic.dll
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\Microsoft.Bot.Builder.dll
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\Microsoft.Bot.Builder.Extensions.dll
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\Microsoft.Bot.Connector.dll
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\Newtonsoft.Json.dll
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\System.Net.Http.Formatting.dll
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\System.Web.Http.dll
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\System.Web.Http.WebHost.dll
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\Autofac.xml
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\Microsoft.Bot.Builder.xml
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\Microsoft.Bot.Builder.Extensions.xml
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\Microsoft.Bot.Connector.xml
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\Newtonsoft.Json.xml
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\System.Net.Http.Formatting.xml
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\System.Web.Http.xml
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\System.Web.Http.WebHost.xml
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\obj\Debug\FindMyGears.csprojResolveAssemblyReference.cache
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\obj\Debug\FindMyGears.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\obj\Debug\Bot Application.dll
+C:\Users\Himanshu\source\repos\FindMyGears\FindMyGears\obj\Debug\Bot Application.pdb
