@@ -121,8 +121,11 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Model\Category.cs" />
+    <Compile Include="Model\OrderPayLoad.cs" />
+    <Compile Include="Model\Products.cs" />
     <Compile Include="Model\Questionary.cs" />
     <Compile Include="Model\SubCategory.cs" />
+    <Compile Include="Model\UserProfile.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Utility\Constants.cs" />
     <Compile Include="Utility\Helper.cs" />
