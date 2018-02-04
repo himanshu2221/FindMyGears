@@ -12,7 +12,7 @@ namespace FindMyGears.Model
         public const string ageQuestion = "What is your Weight?";
         public const string genderQuestion = "May I know your Gender please?";
         public const string sizeQuestion = "What is your Shoes size?";
-        public const string runningTypeQuestion = "";
+        public const string runningTypeQuestion = "What is your Running place?";
 
     }
 }

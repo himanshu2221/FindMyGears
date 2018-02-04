@@ -24,18 +24,7 @@ namespace FindMyGears.Utility
             
         }
 
-        public List<Questionary> GetQuestionaryList()
-        {
-            /*id=101 Means category = Running */
-          return  questionaryList = new List<Questionary> {
-                new Questionary{Question="May I know your Age?",Id=101 },
-                new Questionary{Question="What is your Weight",Id=101 },
-                new Questionary{Question="May I know your Gender please",Id=101 },
-                new Questionary{Question="What is your Shoes size",Id=101 },
-
-            };
-
-        }
+      
 
         public int GetId(string name)
         {

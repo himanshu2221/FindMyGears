@@ -114,18 +114,18 @@ namespace FindMyGears.Dialogs
             Activity reply = activity.CreateReply();
 
             //Ask questions to search for exact requirement --It will be Done by Machine Learning
-            questionaryList = helper.GetQuestionaryList();
-            int id = helper.GetId(activity.Text);
+            //questionaryList = helper.GetQuestionaryList();
+            //int id = helper.GetId(activity.Text);
 
-            foreach(Questionary questionary in questionaryList)
-            {
-                if (questionary.Id == id)
-                {
-                   Attachment attachment = CreateThumbnailCard(questionary);
+            //foreach(Questionary questionary in questionaryList)
+            //{
+            //    if (questionary.Id == id)
+            //    {
+                   Attachment attachment = CreateThumbnailCard(Questionary.genderQuestion);
                     reply.Attachments.Add(attachment);
                     
-                }
-            }
+            //    }
+            //}
 
             await context.PostAsync(reply);
             context.Wait(Selection);
@@ -162,7 +162,7 @@ namespace FindMyGears.Dialogs
             return attachment;
         }
 
-        private Attachment CreateThumbnailCard(Questionary questionary)
+        private Attachment CreateThumbnailCard(string questionary)
         {
             CardAction firstCard = new CardAction()
             {
@@ -182,7 +182,7 @@ namespace FindMyGears.Dialogs
 
             var card = new ThumbnailCard
             {
-                Title = questionary.Question,
+                Title = questionary,
                 Buttons = new List<CardAction> { firstCard, secondCard }
             };
 
